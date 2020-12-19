@@ -20,15 +20,16 @@ python --version
 
 # install miniconda to applications
 
-# download data
-https://www.kaggle.com/c/dogs-vs-cats/data
-
 # deps
 pip install numpy
 pip install opencv-python
+
+# download Kaggle data and put contents in the root of this repo
+
 ```
+
+links
  - [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2020.11-MacOSX-x86_64.pkg)
- - https://www.kaggle.com/c/dogs-vs-cats/data
  - [Kaggle data](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 
