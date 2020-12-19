@@ -19,7 +19,7 @@ python --version
 # 3.7.0
 ```
 
- - [virtual env](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
+ - [Miniconda3 MacOSX 64-bit pkg](https://docs.conda.io/en/latest/miniconda.html)
  - https://www.kaggle.com/c/dogs-vs-cats/data
 
 
