@@ -7,7 +7,7 @@ pyenv install 3.7.0
 # set global default version of python
 pyenv global 3.7.0
 
-# Add for zsh set pyenv path for all sessions
+# Add for `~/.zshrc` set pyenv path for all sessions
 if command -v pyenv 1>/dev/null 2>&1; then
   eval "$(pyenv init -)"
 fi
