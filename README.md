@@ -31,5 +31,5 @@ pip install opencv-python
 links
  - [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2020.11-MacOSX-x86_64.pkg)
  - [Kaggle data](https://www.kaggle.com/c/dogs-vs-cats/data)
-
+ - [Tutorial](https://www.youtube.com/watch?v=FLf5qmSOkwU&ab_channel=BalajiSrinivasan)
 
