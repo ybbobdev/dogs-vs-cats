@@ -17,9 +17,10 @@ pyenv version
 # 3.7.0
 python --version
 # 3.7.0
-```
 
- - [Miniconda3 MacOSX 64-bit pkg](https://docs.conda.io/en/latest/miniconda.html)
+# install miniconda to applications
+```
+ - [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2020.11-MacOSX-x86_64.pkg)
  - https://www.kaggle.com/c/dogs-vs-cats/data
 
 
