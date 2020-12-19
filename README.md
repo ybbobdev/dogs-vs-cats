@@ -11,6 +11,12 @@ pyenv global 3.7.0
 if command -v pyenv 1>/dev/null 2>&1; then
   eval "$(pyenv init -)"
 fi
+
+# verify with 
+pyenv version
+# 3.7.0
+python --version
+# 3.7.0
 ```
 
  - [virtual env](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
